@@ -1,6 +1,6 @@
 """
 Module for building a complete daily dataset from quandl sharadar equity and fund's dataset.
-written by Amir Vahid at Eonum Inc (https://github.com/Eeonum) modified from https://github.com/ajjcoppola
+written by Dr. Amir Vahid at Eonum Inc (https://github.com/Eeonum) modified from https://github.com/ajjcoppola
 
 make sure you set the QUANDL_API_KEY env variable to use this bundle
 """
