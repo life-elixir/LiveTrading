@@ -11,7 +11,7 @@ investment-related course of action. None of Eonum nor any of its affiliates is 
 advice, perform as an adviser to any entity or plan related to the Employee Retirement Income Security Act of 1974, as
 amended, give advice in a fiduciary capacity or individual retirement account, or individual retirement annuity 
 regarding the materials in this repository. Eonum is not responsible for the individual retirement or other investors,
-and all financial questions/concerns should be referred to financial advisor or other fiduciary unrelated to Eonum about
+and all financial questions/concerns should be referred to financial adviser or other fiduciary unrelated to Eonum about
 whether any investment idea, strategy, product or service described may be appropriate for your situations. All 
 investments include risk accompanied by loss of principal. Eonum makes no guarantees as to the completeness or precision
 of the ideas claimed on the repository. The viewpoints are subject to change and may have become unreliable for multiple
