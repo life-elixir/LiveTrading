@@ -5,10 +5,7 @@ building the future. History teaches us lessons but what happens is up to us.
 
 The material and codes on this repository are provided for informational/training purposes only and do not provide
 an offer to sell, a solicitation to buy, or a recommendation or endorsement for any strategy or security, nor does it
-establish an offer to provide investment advisory services by Eonum.
-
-
-In addition, the material offers no recommendation regarding the suitability of any specific investment or security 
+establish an offer to provide investment advisory services by Eonum. The material offers no recommendation regarding the suitability of any specific investment or security 
 instrument. No information provided should be regarded as a suggestion or opinion to participate in or refrain from any 
 investment-related course of action. None of Eonum nor any of its affiliates is conducting business to offer investment
 advice, perform as an adviser to any entity or plan related to the Employee Retirement Income Security Act of 1974, as
